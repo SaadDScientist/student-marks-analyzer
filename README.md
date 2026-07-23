@@ -39,15 +39,23 @@ python student_marks_analyzer.py
 ## Example
 
 ```
-Enter Student's Name: Ali
-Enter Student's Marks: 85
+Enter Student's Name:  Saad
+Enter Student's Marks:  80
+Do you want to enter another student's marks? (y/n):  y
+Enter Student's Name:  Ali
+Enter Student's Marks:  60
+Do you want to enter another student's marks? (y/n):  y
+Enter Student's Name:  Muhammad
+Enter Student's Marks:  59
+Do you want to enter another student's marks? (y/n):  n
+Name: Saad, Marks: 80, Status: Pass
+Name: Ali, Marks: 60, Status: Pass
+Name: Muhammad, Marks: 59, Status: Fail
 
-Enter Student's Name: Ahmed
-Enter Student's Marks: 55
-
-Average Marks: 70
-Highest Marks: 85
-Lowest Marks: 55
+Overall Statistics
+Average Marks : 66.33
+Highest Marks : 80
+Lowest Marks  : 59
 ```
 
 ## Future Improvements
