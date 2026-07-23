@@ -21,13 +21,13 @@ A simple Python console application that stores students' marks, determines pass
 1. Clone the repository
 
 ```bash
-git clone https://github.com/SaadDScientist/student_marks_analyzer.git
+git clone https://github.com/SaadDScientist/student-marks-analyzer.git
 ```
 
 2. Navigate to the folder
 
 ```bash
-cd student_marks_analyzer
+cd student-marks-analyzer
 ```
 
 3. Run
